@@ -1,0 +1,15 @@
+Package: CrocodylianLateralSkullOntogeny
+Type: Package
+Title: R Code for "Developmental origins of the crocodylian skull table and platyrostral face" (Morris et al. in prep)
+Version: 0.1.0
+Author: Zachary S Morris
+Maintainer: zachary.morris@yale.edu
+Description: This package contains the R code and original functions used to perform the geometric morphometric analysis of the ontogeny of crocodylian lateral skull ontogeny from Morris et al. in prep.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+
+Imports:
+
+geomorph (>=3.3.2)
+RRPP (>=0.6.2)
