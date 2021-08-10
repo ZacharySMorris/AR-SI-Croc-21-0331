@@ -1,3 +1,0 @@
-### Dependancies ###
-
-library(geomorph)
