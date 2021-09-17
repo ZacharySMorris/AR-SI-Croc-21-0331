@@ -2,6 +2,7 @@
 library(geomorph)
 library(scales)
 library(mcp)
+library(RRPP)
 ###
 
 ### Load landmark and covariate data ###
